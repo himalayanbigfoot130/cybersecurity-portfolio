@@ -1,0 +1,46 @@
+Week 5 Reflection-ACS140 202610E Cyber Python for AI
+Nabin kumar Karki
+November5, 2026
+ACS140 202610E Cyber Python for AI
+Bista
+
+At the start of the term, I had very little experience using Python for cybersecurity tasks.
+Now, I can write Python scripts to automate security-related processes and analyze data more efficiently. 
+One of the most useful skills I learned was parsing log files.
+I can now read log data, extract important information, search for patterns, and identify suspicious activity using Python scripts.
+This has helped me understand how security analysts investigate events and monitor system activity.
+Another skill I developed was creating scripts to perform tasks such as a login check system. 
+Using Python, I learned how to validate usernames and passwords, process user input, and automate repetitive tasks. 
+This showed me how programming can improve efficiency and reduce human error in security operations.
+I also gained experience working with Pandas and Matplotlib to analyze and visualize data.
+Using Pandas, I learned how to organize, filter, and manipulate datasets. 
+With Matplotlib, I created charts and graphs that made trends and unusual behavior easier to identify.
+Data visualization helped me better understand how cybersecurity professionals present findings and communicate risks.
+One of the most interesting topics was using an Isolation Forest model to detect anomalies.
+This introduced me to machine learning techniques used in cybersecurity.
+By analyzing data and identifying outliers, I learned how security teams can detect unusual behavior that may indicate threats or attacks.
+AI tools were helpful throughout the course. I used AI to explain coding concepts, suggest solutions to programming errors, and provide examples when I was stuck.
+However, I still had to verify that the code worked correctly, test results, and make sure the logic matched the assignment requirements.
+AI made learning faster, but it could not replace critical thinking or careful testing.
+Overall, this course strengthened my Python programming skills and showed me how automation, data analysis, and AI can be applied to real-world cybersecurity challenges.
+One of the most important skills I learned in this class was log analysis and troubleshooting.
+I worked with system logs and error messages to identify problems, understand system behavior, and determine the root cause of issues.
+Learning how to read logs gave me valuable experience with a skill that is widely used in cybersecurity and IT support.
+I also gained experience using Git and GitHub for version control.
+I learned how to create repositories, make commits, push changes, and manage project files.
+Understanding GitHub helped me see how teams collaborate on software projects and keep track of code changes over time.
+Another key skill was working with command-line tools and scripting.
+I practiced navigating directories, running commands, and solving technical problems through the terminal.
+This improved my confidence with technology and strengthened my problem-solving abilities.
+The most challenging part of the class was troubleshooting errors when programs or commands did not work correctly.
+Sometimes it was difficult to determine whether the issue was caused by a coding mistake, incorrect syntax, or a configuration problem.
+To overcome this challenge, I carefully reviewed error messages, searched documentation, and tested solutions one step at a time. 
+Breaking larger problems into smaller pieces helped me identify the source of the issue more effectively.
+If I were to do it again, I would keep better notes on the steps I tried and spend more time planning before making changes.
+This would help me troubleshoot faster and avoid repeating mistakes.
+The skills from this class are directly related to my goal of pursuing a career in cybersecurity.
+Security professionals regularly analyze logs, investigate suspicious activity, and use command-line tools to manage systems and respond to incidents.
+Knowledge of GitHub and version control is also valuable because many organizations use these tools to manage projects securely and collaborate with team members.
+Moving forward, I would like to learn more about network security, threat detection, and digital forensics.
+I am interested in exploring tools such as Wireshark, Splunk, and Nmap because they are commonly used in cybersecurity environments.
+Outside of class, I plan to use platforms like TryHackMe and Hack The Box to gain hands-on experience and develop practical skills that will prepare me for a future cybersecurity career.
